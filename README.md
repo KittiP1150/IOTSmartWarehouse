@@ -1,3 +1,3 @@
-Install
--Copy folder Inc, Src to STM32(microcontroller) workspace /n
--upload picode.py to code.py in raspberry pi
+## Install
+- Copy folder `Inc` and `Src` to the STM32 (microcontroller) workspace
+- Upload `picode.py` as `code.py` on the Raspberry Pi
